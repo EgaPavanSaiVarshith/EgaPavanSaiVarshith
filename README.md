@@ -21,9 +21,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pavan sai varshith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavan sai varshith" height="30" width="40" /></a>
-<a href="https://instagram.com/www.instagram.com/ega.pavansai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram.com/ega.pavansai" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/pavan-sai-varshith-500037351/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pavan-sai-varshith-500037351/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/ega.pavansai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ega.pavansai/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pavansaivarshith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pavansaivarshith" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@chintit401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@chintit401" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/507160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="507160" height="30" width="40" /></a>
 <a href="https://discord.gg/pavansaivarshith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pavansaivarshith" height="30" width="40" /></a>
 </p>
 
